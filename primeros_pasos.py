@@ -24,7 +24,7 @@ name = "Camilo"
 last_name= "Losada"
 age = 28
 
-impresion = f"Hola {name} {last_name}, tu edad es {age}"
+impresion = f"Hola {name} {last_name}, tu edad es {age}" #f es la abreviacion de format
 print(impresion)
 
 # Clase 5 - Numbers
